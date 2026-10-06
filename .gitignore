@@ -1,0 +1,6 @@
+# Salida de los jobs y binarios compilados del cluster
+cluster-hpc/shared/resultados/*
+!cluster-hpc/shared/resultados/.gitkeep
+cluster-hpc/shared/ejemplos/hello_mpi
+cluster-hpc/shared/ejemplos/hello_omp
+cluster-hpc/shared/ejemplos/hybrid
